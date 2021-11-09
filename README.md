@@ -1,4 +1,4 @@
-### howd you find this profile?
+### readme profile! wow
 
 <!--
 **bwongsee/bwongsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
